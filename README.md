@@ -12,14 +12,14 @@ The code contains:
   
   * Ensemble models
 
-3. text_analysis/Text Modeling (5000 words, 1000 word) - final_text_analysis_Saurav.ipynb
+3. Text Modeling (5000 words, 1000 word) - text_analysis/final_text_analysis_Saurav.ipynb
 The code contains:
 
   * Text Modeling - Random Forest, Gradient Boosting, Multilayer Perceptron
   
   * Ensemble Model
 
-4. data_eda/Text EDA - word_cloud.ipynb
+4. Text EDA - data_eda/word_cloud.ipynb
 
 Datasets Used:
 1. Genre Annotations:
