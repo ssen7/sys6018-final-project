@@ -6,7 +6,7 @@ The code contains:
 
   * Exploratory audio data analysis 
 
-2. Audio Models+Ensemble v0.1ss.ipynb
+2. Audio Models+Ensemble v0.1ss.ipynb:
   
   * Audio Modeling - QDA, Logistic, SVM
   
@@ -20,3 +20,13 @@ The code contains:
   * Ensemble Model
 
 4. Text EDA - word_cloud.ipynb
+
+Datasets Used:
+1. Genre Annotations:
+ * http://www.tagtraum.com/msd_genre_datasets.html (File name: msd_tagtraum_cd2c.cls.zip)
+ 
+2. Audio Dataset:
+ * 
+
+3. Lyrics Dataset:
+ *
