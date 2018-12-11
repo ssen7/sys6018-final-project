@@ -6,17 +6,17 @@ The code contains:
 
   * Exploratory audio data analysis 
 
-2. 
+2. Audio Models+Ensemble v0.1ss.ipynb
   
   * Audio Modeling - QDA, Logistic, SVM
   
   * Ensemble models
 
-2. Text Modeling (5000 words, 1000 word) - final_text_analysis_Saurav.ipynb
+3. Text Modeling (5000 words, 1000 word) - final_text_analysis_Saurav.ipynb
 The code contains:
 
   * Text Modeling - Random Forest, Gradient Boosting, Multilayer Perceptron
   
   * Ensemble Model
 
-3. Text EDA - word_cloud.ipynb
+4. Text EDA - word_cloud.ipynb
