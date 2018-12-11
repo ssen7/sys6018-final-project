@@ -1,10 +1,12 @@
 # sys6018-final-project
 SYS 6018 Final Project: Music Genre Prediction System using Ensemble models
 
-1. Audio Modelling - New data v0.3ss.ipynb: 
+1. Audio EDA v0.1ss.ipynb: 
 The code contains:
 
   * Exploratory audio data analysis 
+
+2. 
   
   * Audio Modeling - QDA, Logistic, SVM
   
