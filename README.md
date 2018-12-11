@@ -21,6 +21,16 @@ The code contains:
 
 4. Text EDA - data_eda/word_cloud.ipynb
 
+5. Tree_MLP_Oversampling Analysis.ipynb: 
+The code contains:
+
+  * Boosting, random forest, knn(No PCA), MLP, Oversampling for Audio
+ 
+6. Ensemble Boosting.ipynb: 
+The code contains:
+
+  * Boosting for ensemble 
+
 Datasets Used:
 1. Genre Annotations:
  * http://www.tagtraum.com/msd_genre_datasets.html (File name: msd_tagtraum_cd2c.cls.zip)
