@@ -26,7 +26,7 @@ Datasets Used:
  * http://www.tagtraum.com/msd_genre_datasets.html (File name: msd_tagtraum_cd2c.cls.zip)
  
 2. Audio Dataset:
- * 
+ * https://labrosa.ee.columbia.edu/millionsong/tasteprofile
 
 3. Lyrics Dataset:
- *
+ * https://labrosa.ee.columbia.edu/millionsong/musixmatch
